@@ -1,6 +1,6 @@
 cask "kiteline" do
-  version "3.49.30"
-  sha256 "5af6fef4f31523039bd15378519315a0f5dc834c440167472e22f91685b03df4"
+  version "3.49.31"
+  sha256 "439110651d510dc414f6931152b9629846b3eb75a8dfb89a2b64e3b13e453300"
 
   url "https://github.com/hon6/kiteline/releases/download/v#{version}/Kiteline-#{version}.dmg"
   name "Kiteline"
